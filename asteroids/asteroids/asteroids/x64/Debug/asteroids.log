@@ -1,0 +1,29 @@
+﻿  bullet.cpp
+D:\ЯП\asteroids\asteroids\asteroids\bullet.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ЯП\asteroids\asteroids\asteroids\bullet.cpp(66,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ЯП\asteroids\asteroids\asteroids\bullet.cpp(71,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ЯП\asteroids\asteroids\asteroids\bullet.cpp(76,27): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\ЯП\asteroids\asteroids\asteroids\bullet.cpp(81,27): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\ЯП\asteroids\asteroids\asteroids\bullet.cpp(88,9): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\ЯП\asteroids\asteroids\asteroids\bullet.cpp(89,9): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\ЯП\asteroids\asteroids\asteroids\bullet.cpp(103,10): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\ЯП\asteroids\asteroids\asteroids\bullet.cpp(104,10): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\ЯП\asteroids\asteroids\asteroids\bullet.cpp(122,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ЯП\asteroids\asteroids\asteroids\bullet.cpp(122,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  asteroids.vcxproj -> D:\ЯП\asteroids\asteroids\x64\Debug\asteroids.exe
