@@ -11,4 +11,13 @@ The objective of Asteroids is to destroy asteroids and saucers. The player contr
 
 ![image](https://user-images.githubusercontent.com/86531927/153608758-5dcd66a8-0078-4ee6-bda1-d68cbea2b037.png)
 
+![image](https://user-images.githubusercontent.com/86531927/153609082-95a1c51b-7185-4ead-a2a5-aeca241ab781.png)
+
+![image](https://user-images.githubusercontent.com/86531927/153609147-59e78db8-5fc3-4d6c-8de1-7e0844eaf432.png)
+
+![image](https://user-images.githubusercontent.com/86531927/153609215-5d5eceed-ca1f-4c70-a7b9-7f6f97a04057.png)
+
+![image](https://user-images.githubusercontent.com/86531927/153609329-010a1a24-6ab1-46c3-892d-bf564e2c2a54.png)
+
+![image](https://user-images.githubusercontent.com/86531927/153609388-4f05e513-a0b5-4c0d-94e3-5df0ca1d7d19.png)
 
