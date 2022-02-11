@@ -25,4 +25,12 @@ The objective of Asteroids is to destroy asteroids and saucers. The player contr
 
 ![image](https://user-images.githubusercontent.com/86531927/153610116-3cb63522-d752-4acc-8271-eaf8b1d95149.png)
 
+## Conclusion
+The result of this course work is a software tool created in the Visual Studio 2019 integrated development environment. With the help of this software tool, the user will be able to study the rules and features of the arcade video game “Asteroids”, as well as immerse themselves in the gameplay of this game.
+One of the key tasks set before writing a software tool is to make a modern and understandable interface. As a result, the software tool can be used by both professional and inexperienced users. In the course of development, a large amount of literature from various sources was studied. Knowledge about the SFML graphics library, its capabilities and components has been improved.
+The software product has been tested and meets all the stated requirements.
+• When starting the game, we are greeted by a welcome window with minimal user interface and functionality;
+every level In the program menu, you can select different levels of difficulty, game rules, character selection, application settings, as well as familiarization with information about each level;
+• In the game space, a display of the points scored by the player, his number of lives, the player himself, asteroids, the “pause” button, satellites, coins, clouds, other objects that distract the user from the game and additional “snowflake” objects to simplify games.
+The work done allows us to fully reveal the author's basic knowledge and basic skills in the field of programming. It is possible to further improve the project by introducing a multiplayer game mode and access to the Internet to download updates.
 # C++ SFML
